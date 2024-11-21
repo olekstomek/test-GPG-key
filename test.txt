@@ -1,1 +1,6 @@
 test sign using SSH, should be verified commit, again
+
+try fix:
+Good "git" signature with ED25519 key SHA256:8DKMtZLApAIsJO972bu9zyBY7Xwljv9oZzR0s+3xVlg
+.ssh/allowed_signers:1: bad options: unknown key option^M
+No principal matched.
